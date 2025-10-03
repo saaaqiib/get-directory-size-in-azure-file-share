@@ -6,4 +6,4 @@ The fucntion app takes its value and tries to find a directory with this name in
 It then retruns the total size of all items in that directory in MBs as a JSON response.
 
 This is just part of a bigger workflow I set up for a use case. Related reposistory to this one is:
-https://github.com/s1mplyfrost/get-username-from-email-after-authentication
+https://github.com/saaaqiib/get-username-from-email-after-microsoft-authentication
